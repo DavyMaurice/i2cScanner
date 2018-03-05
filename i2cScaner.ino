@@ -1,7 +1,7 @@
 #include "i2cScan.h"   
 #include <Wire.h>
      
-     
+     //sa fait un truc
 void setup(){
     Wire.begin();
     Serial.begin(9600);
